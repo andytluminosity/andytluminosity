@@ -1,6 +1,6 @@
 ## Hi there 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E07400&height=120&section=header" alt="header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27F5F2&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
 <!--
 **andytluminosity/andytluminosity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
