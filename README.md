@@ -21,6 +21,8 @@ Studying in my 2B term at UW!
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+---
+
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,6 +51,8 @@ Web app that uses voice AI to coach users for interview questions, including spe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### 🔹 [WebSort Downloads](https://github.com/andytluminosity/WebSort-Downloads)
 Automatic file sorter for downloads from Google Chrome.
 
@@ -61,6 +65,8 @@ Automatic file sorter for downloads from Google Chrome.
 ![Chrome API](https://img.shields.io/badge/Chrome_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### 🔹 [Surplus](https://github.com/SaqAsh/Surplus)
 VSCode Extension that can help save your bank account for now, and the future.
