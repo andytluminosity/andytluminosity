@@ -13,7 +13,7 @@ Just created!
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-01-01`
 
 ### 📚 I'm currently...
-```bash
+```
 Studying in my 2B term at UW!
 ```
 
