@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=header" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=75&section=header" style="width: 100%;"/>
 
 # Hello! I'm Andy 👋
 
@@ -86,8 +86,9 @@ VSCode Extension that can help save your bank account for now, and the future.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=75&section=footer" style="width: 100%;"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
+
 <!--
 **andytluminosity/andytluminosity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
