@@ -8,7 +8,7 @@ My personal website:
 [https://andytong.dev/](https://andytong.dev/)
 
 Just created!  
-![visitors](https://vbr.nathanchung.dev/badge?page_id=andytluminosity.andytluminosity&color=1E90FF) 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=andytluminosity.andytluminosity&color=00BFFF) 
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-01-01`
 
