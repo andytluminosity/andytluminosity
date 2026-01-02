@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=header" style="width: 100%;"/>
-## Hello! I'm Andy 👋
+
+# Hello! I'm Andy 👋
 
 I'm a **Computer Science Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)**. I thrive on learning and creating, driven by the challenge and thrill of solving complex problems, while strengthening my skills.
 
 My personal website: [https://andytong.dev/](https://andytong.dev/)
 
-📚 I'm currently...
+### 📚 I'm currently...
 ```bash
-Studying in my 2B term at UW
+Studying in my 2B term at UW!
 ```
 
 ### Languages
@@ -38,21 +39,41 @@ Studying in my 2B term at UW
 ### 🔹 [EchoCoach](https://github.com/andytluminosity/EchoCoach)
 Web app that uses voice AI to coach users for interview questions, including speech and facial emotion detections.
 
-**Tech Stack:** Pytorch, Angular, Django, OpenAI API, Python, TypeScript, CSS
+**Tech Stack:** 
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔹 [WebSort Downloads](https://github.com/andytluminosity/WebSort-Downloads)
-Another project with a brief explanation.
+Automatic file sorter for downloads from Google Chrome.
 
 [**Demo**](https://www.youtube.com/watch?v=UE_83abO78I)
 
-**Tech Stack:** Tkinter, Flask-CORS, Chrome API, Python, JavaScript
+**Tech Stack:** 
+
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask--CORS](https://img.shields.io/badge/Flask--CORS-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Chrome API](https://img.shields.io/badge/Chrome_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔹 [Surplus](https://github.com/SaqAsh/Surplus)
-Another project with a brief explanation.
+VSCode Extension that can help save your bank account for now, and the future.
 
 [**Extension**](https://marketplace.visualstudio.com/items?itemName=Surplus.surplus)
 
-**Tech Stack:** React, Firebase, Typescript, Javascript
+**Tech Stack:** 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
 <!--
