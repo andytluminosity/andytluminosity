@@ -4,12 +4,20 @@
 
 I'm a **Computer Science Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)**. I thrive on learning and creating, driven by the challenge and thrill of solving complex problems, while strengthening my skills.
 
-My personal website: [https://andytong.dev/](https://andytong.dev/)
+My personal website:  
+[https://andytong.dev/](https://andytong.dev/)
+
+Just created!  
+![visitors](https://vbr.nathanchung.dev/badge?page_id=andytluminosity.andytluminosity&color=00E7FC) 
+
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-01-01`
 
 ### 📚 I'm currently...
 ```bash
 Studying in my 2B term at UW!
 ```
+
+---
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -38,7 +46,7 @@ Studying in my 2B term at UW!
 
 ## 📌 Featured Projects
 
-### 🔹 [EchoCoach](https://github.com/andytluminosity/EchoCoach)
+### 🔹 [EchoCoach](https://github.com/andytluminosity/EchoCoach)  
 Web app that uses voice AI to coach users for interview questions, including speech and facial emotion detections.
 
 **Tech Stack:** 
@@ -53,9 +61,8 @@ Web app that uses voice AI to coach users for interview questions, including spe
 
 ---
 
-### 🔹 [WebSort Downloads](https://github.com/andytluminosity/WebSort-Downloads)
-Automatic file sorter for downloads from Google Chrome.
-
+### 🔹 [WebSort Downloads](https://github.com/andytluminosity/WebSort-Downloads)  
+Automatic file sorter for downloads from Google Chrome.  
 [**Demo**](https://www.youtube.com/watch?v=UE_83abO78I)
 
 **Tech Stack:** 
@@ -68,9 +75,8 @@ Automatic file sorter for downloads from Google Chrome.
 
 ---
 
-### 🔹 [Surplus](https://github.com/SaqAsh/Surplus)
-VSCode Extension that can help save your bank account for now, and the future.
-
+### 🔹 [Surplus](https://github.com/SaqAsh/Surplus)  
+VSCode Extension that can help save your bank account for now, and the future.  
 [**Extension**](https://marketplace.visualstudio.com/items?itemName=Surplus.surplus)
 
 **Tech Stack:** 
