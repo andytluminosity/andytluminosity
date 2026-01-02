@@ -2,7 +2,7 @@
 
 # Hello! I'm Andy 👋
 
-I'm a **Computer Science Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)**. I thrive on learning and creating, driven by the challenge and thrill of solving complex problems, while strengthening my skills.
+I'm a **Computer Science Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)**. I thrive on learning and creating, driven by the challenge and thrill of solving complex problems.
 
 My personal website:  
 [https://andytong.dev/](https://andytong.dev/)
