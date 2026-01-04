@@ -10,7 +10,7 @@ My personal website:
 Just created!  
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andytluminosity.andytluminosity&color=00BFFF) 
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-01-01`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-01-03`
 
 ### 📚 I'm currently...
 ```
@@ -67,6 +67,7 @@ Automatic file sorter for downloads from Google Chrome.
 
 **Tech Stack:** 
 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask--CORS](https://img.shields.io/badge/Flask--CORS-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Chrome API](https://img.shields.io/badge/Chrome_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
